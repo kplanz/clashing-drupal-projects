@@ -1,0 +1,22 @@
+{
+  "name": "clashing-drupal-projects",
+  "version": "1.0.0",
+  "description": "List of incompatible Drupal projects (modules, themes, etc.).",
+  "main": "create_json.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kplanz/clashing-drupal-projects.git"
+  },
+  "keywords": [
+    "drupal"
+  ],
+  "author": "Karsten Planz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kplanz/clashing-drupal-projects/issues"
+  },
+  "homepage": "https://github.com/kplanz/clashing-drupal-projects#readme",
+  "dependencies": {
+    "yamljs": "^0.2.4"
+  }
+}
