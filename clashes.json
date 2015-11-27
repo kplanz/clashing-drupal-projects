@@ -1,0 +1,16 @@
+[
+  {
+    "projects": [
+      {
+        "omega": "7.x-4.4"
+      },
+      {
+        "mailsystem": "7.x-2.34"
+      }
+    ],
+    "status": "active",
+    "severity": "high",
+    "issue": "https://www.drupal.org/node/2051135",
+    "note": "Further information and patches can be found in the issue."
+  }
+]
