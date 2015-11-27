@@ -8,13 +8,13 @@
 
 We will create YAML files for each incompatibility (aka *clash*).
 
-Field | Description
---|--
-`projects` | Array of projects, where the key is the project short name and the value is the version. *(Should we support version ranges?)*
-`status` | One of `active`, `resolved`. *(Do we need more?)*
-`severity` | One of `minor`, `major`, `critical`.
-`issue` | Link to a Drupal.org issue.
-`note` | Short description of the incompatibility (especially if there is no issue specified).
+Field  | Description
+-----  | ------------
+`projects`  | Array of projects, where the key is the project short name and the value is the version. *(Should we support version ranges?)*
+`status`  | One of `active`, `resolved`. *(Do we need more?)*
+`severity`  | One of `minor`, `major`, `critical`.
+`issue`  | Link to a Drupal.org issue.
+`note`  | Short description of the incompatibility (especially if there is no issue specified).
 
 
 
