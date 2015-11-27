@@ -42,7 +42,7 @@ There are two ways of reporting an incompatibility. Either create a GitHub issue
 
 ### Create an issue
 
-1. Title: *[module1]* vs *[module2]* vs ...
+1. Title: "Clash: *[module1]* + *[module2]* + ..."
 2. Try to state all needed information (see [Data format](#data-format))
 
 After the issue has been reviewed the corresponding yaml file will be committed.
